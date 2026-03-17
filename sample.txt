@@ -1,2 +1,7 @@
+
 this is a sample file
-this is ninja hattori
+this is ninja hattor
+yoooo...................
+this is from balashivam at main branch
+this is from rakshitha at main branch
+resolved merge conflict
