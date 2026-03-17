@@ -1,0 +1,15 @@
+Feature: Login System
+
+Description:
+This feature allows users to log into the application using their credentials.
+
+Functionalities:
+- User enters username and password
+- System validates credentials
+- If correct → user is logged in
+- If incorrect → error message is shown
+
+Future Improvements:
+- Add email login
+- Add OTP verification
+- Add "Forgot Password" option
